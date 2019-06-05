@@ -1,15 +1,15 @@
 # Taller ilusiones visuales
 
-## Prop髎ito
+## Prop贸sito
 
-Comprender algunos aspectos fundamentales de la [inferencia inconsciente](https://github.com/VisualComputing/Cognitive) de la percepci髇 visual humana.
+Comprender algunos aspectos fundamentales de la [inferencia inconsciente](https://github.com/VisualComputing/Cognitive) de la percepci贸n visual humana.
 
 ## Tareas
 
-Implementar al menos 6 ilusiones de tres tipos distintos (parad骿icas, geom閠ricas, ambiguas, etc.), al menos dos con movimiento y dos con interactividad.
+Implementar al menos 6 ilusiones de tres tipos distintos (parad贸jicas, geom茅tricas, ambiguas, etc.), al menos dos con movimiento y dos con interactividad.
 
 ## Integrantes
-(m醲imo dos)
+(m谩ximo dos)
 
 Complete la tabla:
 
@@ -17,36 +17,31 @@ Complete la tabla:
 |------------|-------------|
 |  Cristian Camilo Lozano Jojoa | CristianLozano            |
 
-## Discusi髇
+## Discusi贸n
 
 1. Complete la la tabla
 
-| Ilusi髇 | Categoria | Referencia | Tipo de interactividad (si aplica) | URL c骴igo base (si aplica) |
+| Ilusi贸n | Categoria | Referencia | Tipo de interactividad (si aplica) | URL c贸digo base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
 |Circle Illusion|Physiological|Physiological Illusions|Movement && clickable||
-
 |Moving Squares|Distorting illusions|openprocessing|Movement|https://www.openprocessing.org/sketch/546302|
-
 |Gradient Illusion|Physiological|openprocessing|Movement|https://www.openprocessing.org/sketch/168577|
 |Herring Illusion|Geometric|openprocessing|None|https://www.openprocessing.org/sketch/168636|
-
 |Moire Illusion|Movement|thinkspacestudio|None|https://thinkspacestudio.com/tutorials/moire_loops_in_java|
-
 |Penrose Triangle Ilussion|Paradox illusions|openprocessing|None|https://www.openprocessing.org/sketch/375565|
-
 |Stepping Feet|Physiological|openprocessing|clickable|https://www.openprocessing.org/sketch/168574|
 
 
-2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustar韆 profundizar:
+2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustar铆a profundizar:
 
 Se estudiaron referencias principalmente de openprocesing, donde se encontraban codigos ejemplo para implementar varios efectos visuales.
-Se puede ver que la herramienta Processing ofrece, de forma f醕il y entendible, la forma de realizar las diferentes ilusiones opticas trabajadas.
+Se puede ver que la herramienta Processing ofrece, de forma f谩cil y entendible, la forma de realizar las diferentes ilusiones opticas trabajadas.
 
-Es increible como el cerebro humano es tan f醕il de enga馻r, enfrentandonos a la realidad construida que se prefiera, sin ser esta necesariamente correcta. Se puede ver que el uso de la matem醫ica es escencial para la creaci髇 de dichas ilusiones 髉ticas.
+Es increible como el cerebro humano es tan f谩cil de enga帽ar, enfrentandonos a la realidad construida que se prefiera, sin ser esta necesariamente correcta. Se puede ver que el uso de la matem谩tica es escencial para la creaci贸n de dichas ilusiones 贸pticas.
 
 ## Entrega
 
 
 
-* Modo de entrega: clonar este repo y subirlo a `https://github.com/username/cv/t1`.
-* Plazo: 16/9/18 a las 24h.
+* Hacer fork de la plantilla. Plazo: 12/5/19 a las 24h.
+* (todos los integrantes) Presentar el trabajo presencialmente en la siguiente sesi贸n de taller.
